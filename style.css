@@ -1,0 +1,22 @@
+.main{
+    border: 2px solid gray;
+    width: 210px;
+    margin: 0 auto;
+
+}
+
+.result{
+    width: 100%;
+    /* background-color: gray; */
+    color: black;
+    text-align: right;
+}
+.btn-primary {
+    width: 100% !important;
+    margin-top: 10px;
+    /* background-color: gray; */
+}
+.btn {
+    width: 45px;
+    margin: 1px;
+}
